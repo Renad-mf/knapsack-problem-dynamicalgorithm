@@ -1,6 +1,6 @@
 # knapsack-problem-dynamicalgorithm
 
-***solve the knapsack problem using greedy algorithm***
+***solve the knapsack problem using dymanic algorithm***
 
 ***it was a project for "optimization and regression" course***
 
