@@ -1,8 +1,8 @@
 # knapsack-problem-dynamicalgorithm
 
-***solve the knapsack problem using dymanic algorithm***
+**this is a project for "optimization and regression" course**
 
-***it was a project for "optimization and regression" course***
+***solve the knapsack problem using dymanic algorithm***
 
 ***the result is in 0-1 form***
 
